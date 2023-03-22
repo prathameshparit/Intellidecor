@@ -3,8 +3,7 @@ import webbrowser
 
 app = Flask(__name__)
 
-link = "https://www.youtube.com/watch?v=QH2-TGUlwu4"
-
+link = 
 
 @app.route('/', methods=['GET', 'POST'])
 def home():
