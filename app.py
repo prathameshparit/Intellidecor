@@ -3,7 +3,7 @@ import webbrowser
 
 app = Flask(__name__)
 
-link = 
+link = ""
 
 @app.route('/', methods=['GET', 'POST'])
 def home():
