@@ -4,11 +4,16 @@ IntelliDecor is an interior design service that utilizes AI-powered technology t
 ## Problem Statement
 Many people struggle to visualize multiple design options without physically placing furniture and decor in the space. This process uses time and resources, as clients have to physically set up and take down multiple design configurations. Our solution aims to provide clients with multiple design alternatives that they can explore virtually, saving time and resources, while allowing them to make informed design decisions.
 
+![IMG](https://github.com/Hrushi11/Intellidecor/blob/main/static/assets/Labels/home.jpg?raw=true)
+![IMG](https://github.com/Hrushi11/Intellidecor/blob/main/static/assets/Labels/flow.jpg?raw=true)
+
 ## Market Opportunity
 According to market research, the global market for interior design services was valued at $145.3 billion in 2020, with a compound annual growth rate of 5.5%. This market is expected to continue to grow, with a forecasted market value of $210.0 billion by 2027. By offering some kind of service, interior design companies can meet a unique and unmet need in the market.
 
 ## Solution
 IntelliDecor utilizes the power of OpenAI's API and stable diffusion techniques to provide clients with multiple alternatives for furnishing their empty rooms. By passing a specific descriptive prompt to the model and letting the AI generate multiple design options, clients are able to explore a wide variety of options and find the best fit for their space. This not only saves time and resources, but also allows clients to see the potential of their empty room and make informed design decisions.
+
+![IMG](https://github.com/Hrushi11/Intellidecor/blob/main/static/assets/Labels/homeIndex.jpg?raw=true)
 
 ## Features
 * Augmented Reality Integration
